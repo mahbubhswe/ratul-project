@@ -7,6 +7,7 @@ export default function AboutUs() {
         height: "250px",
         background: "#FFFAF9",
         padding: "50px",
+        paddingBottom: "100px",
       }}
     >
       <Container maxWidth="md">

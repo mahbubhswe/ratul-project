@@ -20,6 +20,7 @@ export default function Footer() {
         borderTopRightRadius: "120px",
         padding: "50px",
         textAlign: "center",
+        
         boxShadow: "0 -4px 17px rgba(78,75,102,.15)",
       }}
     >

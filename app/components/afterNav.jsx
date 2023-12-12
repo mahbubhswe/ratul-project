@@ -14,7 +14,7 @@ export default function AfterNav() {
         <Stack direction="row" spacing={5} justifyContent="space-between">
           <div
             style={{
-              height: "200px",
+              height: "250px",
               width: "500px",
               border: "1px solid white",
               borderRadius: "12px",
@@ -32,7 +32,7 @@ export default function AfterNav() {
           </div>
           <div
             style={{
-              height: "200px",
+              height: "250px",
               width: "500px",
               border: "1px solid white",
               borderRadius: "12px",

@@ -14,11 +14,11 @@ export default function Home() {
         <section id="home">
           <Hero />
         </section>
-
         <section id="what-we-offer">
           <AfterNav />
-        </section>
+        </section>{" "}
         <section id="about-us">
+          {" "}
           <AboutUs />
         </section>
         <Footer />

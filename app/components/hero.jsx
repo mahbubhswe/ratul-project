@@ -25,7 +25,7 @@ export default function Hero() {
             }}
           >
             <div>
-              <h1>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</h1>
+              <h1>Grow Your Knowledge With Us.</h1>
               <p>
                 Lorem ipsum, dolor sit amet consectetur adipisicing elit.
                 Sapiente repudiandae adipisci iusto deleniti reprehenderit

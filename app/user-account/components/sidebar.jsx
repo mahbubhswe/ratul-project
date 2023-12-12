@@ -19,7 +19,11 @@ export default function Sidebar() {
   const { user, logOut } = UserAuth();
   return (
     <React.Fragment>
-      <Stack direction="column" height={"100vh"} justifyContent="space-between">
+      <Stack
+        direction="column"
+        sx={{ height: "100vh" }}
+        justifyContent="space-between"
+      >
         <div>
           <Box
             sx={{

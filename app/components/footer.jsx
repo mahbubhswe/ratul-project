@@ -20,7 +20,7 @@ export default function Footer() {
         borderTopRightRadius: "120px",
         padding: "50px",
         textAlign: "center",
-        
+
         boxShadow: "0 -4px 17px rgba(78,75,102,.15)",
       }}
     >
@@ -96,7 +96,7 @@ export default function Footer() {
           </Box>
         </Stack>{" "}
         <p style={{ padding: "20px", background: "#FFFAF9" }}>
-          © 2023 Cyber All rights reserved
+          © 2023 Cyber Security Challenge All rights reserved
         </p>
       </Container>
     </div>

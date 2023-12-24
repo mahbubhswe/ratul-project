@@ -9,7 +9,6 @@ import Backdrop from "@mui/material/Backdrop";
 import CircularProgress from "@mui/material/CircularProgress";
 import Image from "next/image";
 import { UserAuth } from "@/app/context/AuthContext";
-
 export default function ReadModule() {
   const { user } = UserAuth();
   const [open, setOpen] = useState(false);
@@ -83,7 +82,7 @@ export default function ReadModule() {
           >
             Enroll Now
           </Button>
-        </Paper>{" "}
+        </Paper>
         <Backdrop open={open}>
           <CircularProgress sx={{ color: "green" }} />
         </Backdrop>

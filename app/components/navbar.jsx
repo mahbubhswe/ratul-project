@@ -33,7 +33,7 @@ function AppNavBar() {
               textDecoration: "none",
             }}
           >
-            CYBER
+            CSC
           </Typography>
 
           <Box sx={{ ml: "auto", color: "wheat" }}>

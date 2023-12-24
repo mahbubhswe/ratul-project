@@ -44,6 +44,14 @@ export default function Sidebar() {
             <Typography component="h4" mt={1} variant="bold" align="center">
               {user.email}
             </Typography>
+            <Typography
+              component="h3"
+              mt={1}
+              align="center"
+              sx={{ color: "grey" }}
+            >
+              Student Dashboard
+            </Typography>
           </Box>
           <Divider />{" "}
           <List>

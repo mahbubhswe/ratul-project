@@ -33,7 +33,7 @@ function AppNavBar() {
               textDecoration: "none",
             }}
           >
-            CSC
+            Cybersecurity Challenges
           </Typography>
 
           <Box sx={{ ml: "auto", color: "wheat" }}>
